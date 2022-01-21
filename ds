@@ -1,0 +1,48 @@
+[33mcommit e3d46853a544f9481b4c51f54a518faa294370c1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: LUCIFER1907 <allenkodiyan@gmail.com>
+Date:   Fri Jan 21 00:52:11 2022 -0500
+
+    Direct commit
+
+[1mdiff --git a/fourthfile b/fourthfile[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0bf743b[m
+[1m--- /dev/null[m
+[1m+++ b/fourthfile[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mcsdnvosdjvnsodvosdvosdovsodvok[m
+
+[33mcommit 845ef4332e03055125ed51a72925d636c0a89d9c[m
+Author: LUCIFER1907 <allenkodiyan@gmail.com>
+Date:   Fri Jan 21 00:50:25 2022 -0500
+
+    Direct message
+
+[1mdiff --git a/THirdFIle b/THirdFIle[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2c48189[m
+[1m--- /dev/null[m
+[1m+++ b/THirdFIle[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthis is the third file[m
+
+[33mcommit bc8143505423eabca989aa84aa90d6a20b9306ae[m
+Author: LUCIFER1907 <allenkodiyan@gmail.com>
+Date:   Fri Jan 21 00:46:48 2022 -0500
+
+    this is my first commit
+
+[1mdiff --git a/FirstFIle b/FirstFIle[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a526e14[m
+[1m--- /dev/null[m
+[1m+++ b/FirstFIle[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mThis is the frst file to the repo[m
+[1mdiff --git a/SEcondFile b/SEcondFile[m
+[1mnew file mode 100644[m
+[1mindex 0000000..22d263e[m
+[1m--- /dev/null[m
+[1m+++ b/SEcondFile[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mTHis is the second file i've added[m
